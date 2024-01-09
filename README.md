@@ -1,4 +1,4 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif](https://propulsive.in/assets/img/service-icon/web.gif))
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Nelen Maharjan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
