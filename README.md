@@ -1,8 +1,8 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![MasterHead]([https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif](https://propulsive.in/assets/img/service-icon/web.gif))
 
 <h1 align="center">Hi 👋, I'm Nelen Maharjan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align= "right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"
+<img align= "right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelen-maharjan&label=Profile%20views&color=0e75b6&style=flat" alt="nelen-maharjan" /> </p>
 
